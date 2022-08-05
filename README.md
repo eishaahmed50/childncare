@@ -1,0 +1,2 @@
+# childncare
+Child n care collection is a children’s clothing shop in Lahore since 1995. I want to make their business online. Child n care is a responsive website that is developed using .Net Framework (C#) and MSSQL for DB. This website is an eCommerce website containing 45 pages. It has a Content management system Software and an eCommerce online store selling children’s garments according to age and size in Lahore, Pakistan. 
